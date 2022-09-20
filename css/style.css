@@ -1,6 +1,6 @@
  
  .main{
-    background-image:url(../images/beauFlo.jpg)
+    background-image:url(../images/beauFlo.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -428,7 +428,7 @@ hollywood-movies{
     background-color: deeppink;
     text-align: center;
     position: absolute;
-    top:3900px;
+    top:4500px;
  }
  .footer p{
     color:whitesmoke;
