@@ -98,6 +98,7 @@
     position: absolute;
     left: 95%;;
     top:6%;
+    left: 1490px;
     float: right;
 }
 .user a{
@@ -425,13 +426,13 @@ hollywood-movies{
   }
   .footer{
     width: 100%;
-     min-height: 100px;
+     height: 100px;
     padding: 20px 80px;
     margin:0;
     background-color: deeppink;
     text-align: center;
     position: absolute;
-    top:3850px;
+    top:3750px;
  }
  .footer p{
     color:whitesmoke;
