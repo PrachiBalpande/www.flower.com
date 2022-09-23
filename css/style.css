@@ -390,7 +390,7 @@ hollywood-movies{
 
   .pra{
     height:400px ;
-    width:30%;
+    width:25%;
     background-color: pink;
     float: left;
     position: absolute;
@@ -406,7 +406,7 @@ hollywood-movies{
 
     background-size: 50%;
     position: absolute;
-    left: 350px;
+    left: 400px;
     top:0px;
     float: right;
     
