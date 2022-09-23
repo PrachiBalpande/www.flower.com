@@ -378,23 +378,23 @@ hollywood-movies{
   }
   .contact .pra{
     height: 400px;
-    width:30%;
+    width:20%;
     background-color: pink;
 
     
      position:absolute;
      
-     padding-left: 150px;
+     padding-left: 130px;
      
   }
 
   .pra{
     height:400px ;
-    width:25%;
+    width:20%;
     background-color: pink;
     float: left;
     position: absolute;
-    left: 30px;
+    left: 40px;
     
     border:10px solid #333;
     
@@ -406,7 +406,7 @@ hollywood-movies{
 
     background-size: 50%;
     position: absolute;
-    left: 400px;
+    left: 300px;
     top:0px;
     float: right;
     
